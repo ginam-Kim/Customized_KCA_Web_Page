@@ -1,5 +1,6 @@
 # Customized_KCA_Web_Page
-2023 제5회 대구 빅데이터 분석 경진대회 소비자 부문 -> 한국소비자원 실증분석(수요자 맞춤형 한국소비자원 웹페이지 구현)
+2023 제5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상 
+-> 한국소비자원 실증분석(수요자 맞춤형 한국소비자원 웹페이지 구현)
 
 
 - Main Repositories | [News_Recommendation_CS](https://github.com/ginam-Kim/News_Recommendation_CS)
